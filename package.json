@@ -8,6 +8,7 @@
     "url": "https://github.com/vaporwavy/gatsby-london-after-midnight/issues"
   },
   "dependencies": {
+    "config-yml": "^0.10.3",
     "gatsby": "^2.4.2",
     "gatsby-image": "^2.0.41",
     "gatsby-plugin-feed": "^2.2.0",
@@ -27,6 +28,7 @@
     "gatsby-source-filesystem": "^2.0.33",
     "gatsby-transformer-remark": "^2.3.12",
     "gatsby-transformer-sharp": "^2.1.19",
+    "netlify-cms": "^2.10.51",
     "prismjs": "^1.16.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
