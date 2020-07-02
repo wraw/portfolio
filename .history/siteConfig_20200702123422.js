@@ -1,9 +1,9 @@
 module.exports = {
-  name: 'Władek Rawiński',
-  shortName: 'WLD',
-  description: 'Test ale jaki test',
+  name: 'Wladek',
+  shortName: 'LAM',
+  description: 'Test',
   url: 'https://wladek.one', // Domain of your site without prefix!
   prefix: '/',
-  author: 'Władek',
+  author: 'Vaporwavy',
   twitter: ''
 }

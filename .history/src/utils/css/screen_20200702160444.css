@@ -326,7 +326,7 @@ body {
     position: static;
     z-index: auto;
     display: flex;
-    justify-content: center;
+    justify-content: left;
   }
   .site-head-right {
     order: 3;
