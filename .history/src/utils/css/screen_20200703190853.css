@@ -62,10 +62,10 @@ body {
 .page-head {
   display: flex;
   flex-direction: column;
-  align-items: left;
-  justify-content: left;
-  padding: 8vw 0;
-  max-width: 960px;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+  max-width: 70%;
   margin: 0px;
   text-align: left;
 }

@@ -62,12 +62,12 @@ body {
 .page-head {
   display: flex;
   flex-direction: column;
-  align-items: left;
-  justify-content: left;
-  padding: 8vw 0;
-  max-width: 960px;
-  margin: 0px;
-  text-align: left;
+  align-items: center;
+  justify-content: center;
+  padding: 13vw 0;
+  max-width: 70%;
+  margin: auto;
+  text-align: center;
 }
 
 .error-head {
@@ -96,7 +96,7 @@ body {
 }
 
 .page-head-title {
-  margin: 0;
+  margin: 1;
   font-size: 3.2rem;
   color: var(--color-base);
 }

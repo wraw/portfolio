@@ -65,9 +65,10 @@ body {
   align-items: left;
   justify-content: left;
   padding: 8vw 0;
-  max-width: 960px;
+  max-width: 100%;
   margin: 0px;
   text-align: left;
+  font-weight: 30;
 }
 
 .error-head {

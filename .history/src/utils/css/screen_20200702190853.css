@@ -62,12 +62,12 @@ body {
 .page-head {
   display: flex;
   flex-direction: column;
-  align-items: left;
-  justify-content: left;
-  padding: 8vw 0;
-  max-width: 960px;
-  margin: 0px;
-  text-align: left;
+  align-items: center;
+  justify-content: center;
+  padding: 13vw 0;
+  max-width: 70%;
+  margin: auto;
+  text-align: center;
 }
 
 .error-head {
@@ -97,7 +97,7 @@ body {
 
 .page-head-title {
   margin: 0;
-  font-size: 3.2rem;
+  font-size: 4.2rem;
   color: var(--color-base);
 }
 @media (max-width: 500px) {
@@ -107,7 +107,7 @@ body {
 }
 
 .page-head-description {
-  margin: 0 0 1.6vw;
+  margin: -10 30 1.6vw;
   color: color(var(--color-border) l(-20%));
   font-size: 2.2rem;
   line-height: 1.35em;
