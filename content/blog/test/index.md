@@ -8,4 +8,6 @@ description: Tutaj coś napiszę
 ---
 A tutaj też 
 
-![zdjecie](dup.jpg "hehehe")
+![zdjecie](dup.jpg "Tytuł tego zdjecia")
+
+Tekst pod
