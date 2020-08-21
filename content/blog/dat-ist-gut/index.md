@@ -2,7 +2,6 @@
 title: DAT ist gut
 tags:
   - graphic design
-  - art direction
 date: 2016-05-01T19:12:58.846Z
 thumbnail: dat-flaga.jpg
 description: " "
