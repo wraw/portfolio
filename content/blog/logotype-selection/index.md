@@ -4,7 +4,7 @@ tags:
   - graphic design
 date: 2020-08-21T14:36:45.890Z
 thumbnail: min.jpg
-description: Logotype selection
+description: " "
 ---
 ![](smb.jpg)
 
