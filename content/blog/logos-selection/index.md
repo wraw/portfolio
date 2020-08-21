@@ -2,7 +2,7 @@
 title: Logos selection
 tags:
   - graphic design
-date: 2020-08-21T18:46:00.900Z
+date: 2019-01-06T19:46:00.900Z
 thumbnail: min.jpg
 description: Selection of logotypes
 ---
