@@ -1,5 +1,5 @@
 ---
-title: Logos selection
+title: Selection of logotypes
 tags:
   - graphic design
 date: 2019-01-06T19:46:00.900Z
