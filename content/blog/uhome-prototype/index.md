@@ -12,4 +12,8 @@ The room listing market is mostly dominated by OLX, gumtree and physical adverti
 
 The idea of this kind of app was based on my friends and own experience of living abroad for a quite of time. I have been living in the UK and Portugal,  also I have met a lot of people that had such a fascinating accommodation experience in European countries. The most neglected thing about accommodation websites is that they lack a key factor of the genuineness of posted adverts. Each semester, universities are run out of places in halls of residence that are perceived as „safe and checked places”. Many international students are coming to popular exchange places (like Lisbon, Wrocław, Warsaw or Berlin) and because of variety of languages in Europe, it is very common for the language barrier to occur. Also, for many young people it is first time to live on their own. uHome could provide additional places for students, that are checked by internal team, confirmed that they are real, with descriptions provided in at least of two languages. 
 
+<div class="kg-card kg-image-card kg-width-full">
+
 ![](artboard.jpg)
+
+</div>
