@@ -2,7 +2,7 @@
 title: uHome prototype
 tags:
   - UX/UI design
-date: 2020-08-22T21:09:20.985Z
+date: 2020-05-01T21:09:20.985Z
 thumbnail: notebook-and-phone-mockup-scene.jpg
 description: A room searching app prototype
 ---
