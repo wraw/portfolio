@@ -6,7 +6,7 @@ date: 2020-07-05T15:12:52.797Z
 thumbnail: img_0975.jpg
 description: Selection of photographs
 ---
-More pictures available [here](https://vsco.co/vldslav/) (mobile photography)
+The mobile photography gallery is constantly updated on the [VSCO account](https://vsco.co/vldslav/).
 
 ![](img_8894.jpg)
 
@@ -18,6 +18,12 @@ More pictures available [here](https://vsco.co/vldslav/) (mobile photography)
 
 ![](img_0447.jpg)
 
+![](dscf3362.jpg)
+
 ![](img_0641.jpg)
 
 ![](img_0925.jpg)
+
+![](img_9264.jpg)
+
+![](img_9216.jpg)
