@@ -17,33 +17,19 @@ const AboutPage = ({ data }, location) => {
 
       <article className="post-content page-template no-image">
         <div className="post-content-body">
-          <figure className="kg-card kg-image-card kg-width-full">
+          <figure className="kg-card kg-image-card">
             <Img
               fluid={data.benchAccounting.childImageSharp.fluid}
               className="kg-image"
             />
-            <figcaption>Large imagery is at the heart of this theme</figcaption>
           </figure>
-          <h3 id="dynamic-styles">Dynamic styles</h3>
+          <h3 id="dynamic-styles">About</h3>
           <p>
-            London comes with photo-centric main layout best suited to
-            photography, graphics portfolios and other image-heavy uses.
-          </p>
-          <p>
-            Booth post and page templates are light and minimal, with all the
-            focus on the content while the design of the theme gets out of the
-            way. Beneath the hood, London enjoys the full power of the{" "}
-            <a href="https://docs.ghost.org/api/handlebars-themes/">
-              Ghost Handlebars Theme API
-            </a>{" "}
-            to provide limitless customisation options and dynamic styles.
-          </p>
-          <p>
-            Don't forget to check out the{" "}
-            <a href="https://docs.ghost.org/integrations/">
-              Ghost Integrations Directory
-            </a>{" "}
-            for more ways to integrate Ghost with your favourite services.
+          Władek Rawiński is a Digital Designer with experience in Graphic Design and communication.
+          Seeks an opportunity to progress in UX/UI design and art direction.
+          Władek got his education in three countries Poland, the UK, and Portugal.
+          His ability to adapt to new environments and amazing Pizza skills could make him a valuable co-worker.
+          Władek is currently based in Pomerania, Poland.
           </p>
         </div>
       </article>
