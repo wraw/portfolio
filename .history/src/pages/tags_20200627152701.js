@@ -13,14 +13,14 @@ import "../utils/css/screen.css"
 const TagIndex = ({ data }) => {
   const siteTitle = data.site.siteMetadata.title
   const tags = data.allMarkdownRemark.distinct
-
+  
   return (
     <Layout title={siteTitle}>
       <SEO
         title="Tags"
       />
       <header className="tag-page-head">
-          <h1 className="page-head-title">Categories({tags.length})</h1>
+          <h1 className="page-head-title">Tags({tags.length})</h1>
       </header>
       <div className="tag-container">
         {tags.map( tag => {
