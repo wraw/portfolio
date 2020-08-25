@@ -15,6 +15,8 @@ Based on our research, we prepared a copy and leaflet that could be distributed 
 
 The report is available [here](https://drive.google.com/file/d/1R9LE47nmDFUS4VO_KIoXbpjUaP2oH_Aq/view?usp=sharing) in Polish with all of the collaborators listed. 
 
+[The presentation](https://docs.google.com/presentation/d/1F_gBiTlAaFEnNfwWSSpt8WsmqyB_8qPaNORvIptdG7w/edit?usp=sharing) with Polish description of this project. 
+
 <div class="kg-card kg-image-card kg-width-full">
 
 ![](ulotka-zlozona.jpg)
