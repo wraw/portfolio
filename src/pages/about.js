@@ -39,6 +39,8 @@ const AboutPage = ({ data }, location) => {
             method="post"
             data-netlify="true"
             data-netlify-honeypot="bot-field">
+            <input type="hidden" name="bot-field" />
+            <input type="hidden" name="form-name" value="contact" />
             <div className="row gtr-uniform">
               <div className="col-6 col-12-xsmall">
                 <input
