@@ -37,7 +37,6 @@ const AboutPage = ({ data }, location) => {
           <h5 id="forms">Stay in touch!</h5>
           <form
             method="post"
-            action="#"
             data-netlify="true"
             data-netlify-honeypot="bot-field">
             <div className="row gtr-uniform">
