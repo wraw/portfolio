@@ -13,7 +13,7 @@ const AboutPage = ({ data }, location) => {
 
   return (
     <Layout title={siteTitle}>
-      <SEO title="About" keywords={[`blog`, `gatsby`, `javascript`, `react`]} />
+      <SEO title="About" keywords={[`władek`, `rawiński`, `about`, `portfolio`]} />
 
       <article className="post-content page-template no-image">
         <div className="post-content-body">
@@ -32,6 +32,86 @@ const AboutPage = ({ data }, location) => {
           Władek is currently based in Pomerania, Poland.
           </p>
         </div>
+        <br />
+        <br />
+          <h5 id="forms">Stay in touch!</h5>
+          <form
+            method="post"
+            action="#"
+            data-netlify="true"
+            data-netlify-honeypot="bot-field">
+            <div className="row gtr-uniform">
+              <div className="col-6 col-12-xsmall">
+                <input
+                  type="text"
+                  name="name"
+                  id="name"
+                  placeholder="Your Name"
+                />
+              </div>
+              <div className="col-6 col-12-xsmall">
+                <input
+                  type="email"
+                  name="email"
+                  id="email"
+                  placeholder="E-mail"
+                />
+              </div>
+              {/* Break */}
+              <div className="col-12">
+                <input
+                  type="text"
+                  name="subject"
+                  id="subject"
+                  placeholder="Subject"
+                />
+              </div>
+              {/* Break */}
+              <div className="col-12">
+                <select name="demo-category" id="category">
+                  <option value>- Category -</option>
+                  <option value={1}>Design inquiry</option>
+                  <option value={1}>Photo/Video</option>
+                  <option value={1}>General</option>
+                </select>
+              </div>
+              {/* Break */}
+              <div className="col-12">
+                <textarea
+                  name="message"
+                  id="message"
+                  placeholder="Enter your message"
+                  rows={6}
+                  defaultValue={""}
+                />
+              </div>
+              {/* Break */}
+              <div className="col-6 col-12-small">
+                <input
+                  type="checkbox"
+                  id="human"
+                  name="human"
+                />
+                <label htmlFor="human">I am a human</label>
+                <br/>
+              </div>
+              {/* Break */}
+              <div className="col-12">
+                <ul className="actions">
+                  <li>
+                    <input
+                      type="submit"
+                      defaultValue="Send Message"
+                      className="primary"
+                    />
+                  </li>
+                  <li>
+                    <input type="reset" defaultValue="Reset" />
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </form>
       </article>
     </Layout>
   )
