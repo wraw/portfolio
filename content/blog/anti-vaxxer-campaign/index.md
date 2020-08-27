@@ -4,7 +4,7 @@ tags:
   - graphic design
   - reporting
 date: 2019-01-01T17:27:09.573Z
-thumbnail: ulotka-tyl.jpg
+thumbnail: ulotka-zlozona.jpg
 description: " "
 ---
 This project was about information researching based on the topic presented by our lecturer. The main goal of this assignment was to create a leaflet against anti-vaxxer movement and prepare a report about how and what informations people get about the vaccinations. \
