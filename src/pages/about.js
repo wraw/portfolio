@@ -87,16 +87,6 @@ const AboutPage = ({ data }, location) => {
                 />
               </div>
               {/* Break */}
-              <div className="col-6 col-12-small">
-                <input
-                  type="checkbox"
-                  id="human"
-                  name="human"
-                />
-                <label htmlFor="human">I am a human</label>
-                <br/>
-              </div>
-              {/* Break */}
               <div className="col-12">
                 <ul className="actions">
                   <li>
