@@ -3,7 +3,7 @@ title: Videos
 tags:
   - video
 date: 2019-06-01T11:34:08.397Z
-thumbnail: vsco_041115.jpg
+thumbnail: videomin.jpg
 description: Selection of videos and cuts
 ---
 
