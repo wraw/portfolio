@@ -26,12 +26,17 @@ const AboutPage = ({ data }, location) => {
           </figure>
           <h3 id="dynamic-styles">About</h3>
           <p>
-          Władek Rawiński is a Digital Designer with experience in Graphic Design and communication.
+          Władek Rawiński is a Digital Designer with experience in Graphic Design and Communication.
           Seeks an opportunity to progress in UX/UI design and art direction.
           Władek got his education in three countries Poland, the UK, and Portugal.
           His ability to adapt to new environments and amazing Pizza skills could make him a valuable co-worker.
           Władek is currently based in Pomerania, Poland.
           </p>
+          <br />
+          <h3 id="dynamic-styles">A few ways to contact</h3>
+          <li><a href="mailto:wladek@rawinski.com.pl?subject=Design inquiry">wladek@rawinski.com.pl</a></li>
+          <li><a href="https://www.linkedin.com/in/wladekrawinski/">LinkedIn</a></li>
+          <li><a href="https://vsco.co/vldslav/">VSCO</a></li>
         </div>
       </article>
     </Layout>
