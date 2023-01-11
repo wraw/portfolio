@@ -33,7 +33,7 @@
     "gatsby-source-filesystem": "^2.3.30",
     "gatsby-source-vimeo": "^1.1.8",
     "gatsby-source-vimeo-all": "0.0.18",
-    "gatsby-transformer-remark": "^2.8.35",
+    "gatsby-transformer-remark": "^5.25.1",
     "gatsby-transformer-sharp": "^2.5.15",
     "netlify-cms": "^2.10.60",
     "netlify-cms-app": "^2.12.24",
